@@ -41,6 +41,7 @@ O código está organizado por tópicos cronológicos ou listas de exercícios p
 * `/03_Vetores_e_Matrizes`: Manipulação de arrays unidimensionais e multidimensionais.
 * `/04_Funcoes_e_Procedimentos`: Projetos um pouco maiores focados em modularização e organização do código.
 * `/05_Ponteiros`: Códigos para praticar a manipulação direta de endereços de memória.
+* `/06_Trabalhos_Praticos`: : Aplicações completas e desafios práticos que consolidam os conceitos aprendidos ao longo do curso.
 
 ---
 
